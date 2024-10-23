@@ -1,0 +1,23 @@
+{
+  "name": "javascript-string-manipulation",
+  "version": "1.0.0",
+  "description": "A npm package for javascript string manipulation function",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumera-banu/JavaScript-string-manipulation.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sumera",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sumera-banu/JavaScript-string-manipulation/issues"
+  },
+  "homepage": "https://github.com/sumera-banu/JavaScript-string-manipulation#readme"
+}
